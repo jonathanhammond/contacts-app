@@ -10,3 +10,5 @@ Look in the composition for notes
 For more examples of Quartz Composer please visit http://www.justaddmusicmedia.com
 
 Thanks!
+
+![screenshot](http://justaddmusicmedia.com/wp-content/uploads/2014/06/thumbWeb1.jpg)
